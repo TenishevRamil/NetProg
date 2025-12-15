@@ -1,0 +1,7 @@
+daytime_client
+*.o
+*.out
+*.swp
+*.swo
+*~
+.DS_Store
